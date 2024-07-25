@@ -10,4 +10,9 @@ class Absurd
     {
         $this->human = 'latino';
     }
+
+    public function getHuman()
+    {
+        return $this->human;
+    }
 }
