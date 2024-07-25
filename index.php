@@ -15,4 +15,8 @@ class Absurd
     {
         return $this->human;
     }
+
+    public function setHuman($human)
+    {
+        $this->human = $humans;
 }
